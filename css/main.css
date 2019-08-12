@@ -19,7 +19,13 @@ img {
     font-family: 'Pacifico', serif;
 }
 
+a.light {
+	color: lightgrey;
+}
 
+a.dark {
+	color: brown;
+}
 
 /* ==========================================================================
  Header 
